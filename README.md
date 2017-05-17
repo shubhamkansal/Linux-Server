@@ -1,12 +1,12 @@
 # Linux-Server
 
   * Project 7 under the Full Stack Web Developer Nanodegree at Udacity
-  * See project live at: [link][project url]
+  * See project live at: ec2-54-91-38-85.compute-1.amazonaws.com
 
 #### Notes for reviewer:
   * Public IP: 54.91.38.85
   * SSH PORT: 2200
-  * Full project URL: [link][project url]
+  * Full project URL: ec2-54-91-38-85.compute-1.amazonaws.com
   
 ### Tasks given and method for completion:
 
